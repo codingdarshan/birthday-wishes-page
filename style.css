@@ -1,0 +1,13 @@
+
+.section0 .carousel .carousel-inner .carousel-item .d-block{
+    border-radius: 10px;
+}
+
+.section1 .row .col-md-4 .shadow-lg{
+    border-radius: 10px;
+}
+
+.section1 .row .col-md-4 .shadow-lg .vdo{
+    width: 100%;
+    border-radius: 10px;
+}
